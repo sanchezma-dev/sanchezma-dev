@@ -7,4 +7,4 @@ Me encanta investigar, probar herramientas nuevas y seguir adquiriendo habilidad
 Sigo profundizando en diferentes arquitecturas con Java, además de adentrarme en el 🌍 de NodeJS
 
 ### Tecnologías:
-https://img.shields.io/badge/:badgeContent
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
