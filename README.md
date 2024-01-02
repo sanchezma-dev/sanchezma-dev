@@ -11,5 +11,5 @@ Sigo profundizando en diferentes arquitecturas con Java, además de adentrarme e
 
 ### prueba
 <p>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,express,springboot" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,express,spring" />
 </p>
