@@ -7,4 +7,4 @@ Me encanta investigar, probar herramientas nuevas y seguir adquiriendo habilidad
 Sigo profundizando en diferentes arquitecturas con Java, además de adentrarme en el 🌍 de NodeJS
 
 ### Tecnologías:
-[![My Skills]([BASE_URL]?i=java,kotlin,node.js,docker,mongodb,postgresql)
+[![My Skills]([BASE_URL]?i=react,node.js,docker,mongodb,postgresql,awslambda,adobexd,angular)
