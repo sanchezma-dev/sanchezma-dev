@@ -11,7 +11,5 @@ Sigo profundizando en diferentes arquitecturas con Java, además de adentrarme e
 
 ### prueba
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs" />
 </p>
