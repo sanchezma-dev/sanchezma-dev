@@ -1,5 +1,6 @@
 ### Saludos👋 me llamo Josema Sánchez. 
-
+Soy desarrollador de software, con más de 7 años de experiencia, especializado en backend con Java.
+He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
 <!--
 **sanchezma-dev/sanchezma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
