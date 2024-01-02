@@ -10,6 +10,6 @@ Sigo profundizando en diferentes arquitecturas con Java, además de adentrarme e
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ### prueba
-<p align="center">
+<p>
     <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs" />
 </p>
