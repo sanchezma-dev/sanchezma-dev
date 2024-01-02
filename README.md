@@ -1,3 +1,6 @@
+Aprendiendo siempre...
+Soy un desarrollador de software entusiasmado en el aprendizaje.
+
 ### Hi there 👋
 
 <!--
