@@ -13,7 +13,7 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
     <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,express,spring" />
 </p>
 
-### 🔍 Próximas metas:
+### 🌱 Próximas metas:
 <p>
     <img src="https://skillicons.dev/icons?i=docker,react" />
 </p>
