@@ -23,10 +23,9 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
     <img src="https://skillicons.dev/icons?i=kafka,jenkins" />
 </p>
 <p>
-    `"Entre otras..."`
+    Entre otras...
 </p>
-- :nerd_face: Always believe `"You are what you loved"`
-<br>
+
 ### 🌱 Próximas metas:
 <p>
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
