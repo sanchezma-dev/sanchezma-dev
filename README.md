@@ -5,8 +5,7 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
 ### :sunglasses: Así soy:
 <p>
     Me encanta investigar, probar herramientas nuevas y seguir adquiriendo habilidades.
-    Sigo profundizando en diferentes arquitecturas con <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />,
-    además de adentrarme en el 🌍 de NodeJS
+    Sigo profundizando en diferentes arquitecturas con Java, además de adentrarme en el 🌍 de NodeJS
 </p>
 
 ### :floppy_disk: Tecnologías principales:
