@@ -21,6 +21,9 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
 <p>
    <small>Entre otras...</small>
 </p>
+<pre>
+Prueba
+</pre>
 
 ### 🌱 Próximas metas:
 <p>
