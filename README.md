@@ -18,7 +18,7 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
 <p>
     <img src="https://skillicons.dev/icons?i=kafka,jenkins" />
 </p>
-<span>
+<span font-size: 6px; color: #ff0000;>
     entre otras...
 </span>
 
@@ -31,4 +31,5 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
 <p>
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
