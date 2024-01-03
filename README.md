@@ -9,11 +9,17 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
 </p>
 
 ### :floppy_disk: Tecnologías principales:
-<p>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,express,spring" />
+<p> ➡️ Lenguajes y frameworks:
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,ts,nodejs,express" />
+</p>
+<p> ➡️ Bases de datos:
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+<p> ➡️ Otras...
+    <img src="https://skillicons.dev/icons?i=kafka,jenkins" />
 </p>
 
 ### 🌱 Próximas metas:
 <p>
-    <img src="https://skillicons.dev/icons?i=docker,react" />
+    <img src="https://skillicons.dev/icons?i=graphql,docker,react" />
 </p>
