@@ -2,7 +2,6 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=3358FF&size=25&lines=Bienvenidos+a+mi+espacio+github!!;Desarrollador+de+software;Entusiasta+de+la+tecnología" /></a>
 </p>
-### Saludos👋, me llamo Josema Sánchez.
 Soy desarrollador de software, con más de 7 años de experiencia, especializado en backend con Java.
 He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
 
