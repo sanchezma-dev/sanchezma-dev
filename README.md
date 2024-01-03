@@ -8,7 +8,6 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
     Sigo profundizando en diferentes arquitecturas con Java, además de adentrarme en el 🌍 de NodeJS
 </p>
 
-### :floppy_disk: Tecnologías principales:
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Tecnologías principales:
 <p>
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,ts,nodejs,express" />
@@ -20,7 +19,7 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
     <img src="https://skillicons.dev/icons?i=kafka,jenkins" />
 </p>
 <p>
-    entre otras...
+    `"Entre otras..."`
 </p>
 
 ### 🌱 Próximas metas:
