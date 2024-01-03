@@ -21,7 +21,8 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
 <p>
     `"Entre otras..."`
 </p>
-Always believe `"You are what you loved"`
+- :nerd_face: Always believe `"You are what you loved"`
+<br>
 ### 🌱 Próximas metas:
 <p>
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
