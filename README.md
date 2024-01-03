@@ -18,7 +18,7 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
 <p>
     <img src="https://skillicons.dev/icons?i=kafka,jenkins" />
 </p>
-<p>
+<p style="font-size: smaller;">
     entre otras...
 </p>
 
