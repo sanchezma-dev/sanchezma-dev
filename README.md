@@ -22,7 +22,7 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
    <i><code>Entre otras...</code></i>
 </p>
 <p>
-   <i><Entre otras...</i>
+   <i>Entre otras...</i>
 </p>
 
 ### 🌱 Próximas metas:
