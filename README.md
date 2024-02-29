@@ -13,7 +13,7 @@ He trabajado en diferentes arquitecturas, tanto monolito como hexagonal.
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Tecnologías principales:
 <p>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring" /> <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring" />
 </p>
 <p>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
